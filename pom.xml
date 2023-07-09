@@ -10,6 +10,7 @@
 	<groupId>CRM</groupId>
 	<artifactId>product</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>CRM_Product</name>
 	<description>CRM product module</description>
 	<properties>
